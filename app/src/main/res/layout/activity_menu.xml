@@ -17,6 +17,17 @@
                 android:layout_height="160dp"
                 android:layout_width="match_parent"
                 android:id="@+id/room3"
-                android:layout_below="@+id/room2" />
+                android:layout_below="@+id/room2"
+                android:background="@null"/>
+
+    <ImageView
+        android:layout_width="46dp"
+        android:layout_height="30dp"
+        android:id="@+id/foco"
+        android:src="@drawable/focof"
+        android:layout_marginBottom="7dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
 
 </RelativeLayout>
