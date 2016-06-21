@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "463361563155",
+    "firebase_url": "https://saverfid-f4b00.firebaseio.com",
+    "project_id": "saverfid-f4b00",
+    "storage_bucket": "saverfid-f4b00.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:463361563155:android:39ba9f94f254e105",
+        "android_client_info": {
+          "package_name": "com.example.vicente.saverfid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "463361563155-19hk3phimc1huh5t9krp3ol880pcqn3b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChMGgCBfpKsh04e-5-Q0G1xaR1sX4ckJ8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
